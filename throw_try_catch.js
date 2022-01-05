@@ -14,4 +14,4 @@ try {
 } catch(e) {
     console.log(e)
 }
-console.log('Após try catch')
+console.log('Após try/catch')
